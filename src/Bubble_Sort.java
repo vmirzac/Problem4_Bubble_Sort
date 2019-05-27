@@ -1,3 +1,5 @@
+//Given an array of integers, implement the BubbleSort algorithm for sorting the elements of the array	
+
 class BubbleSort
 {
     void bubbleSort(int arr[])
